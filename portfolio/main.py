@@ -154,7 +154,7 @@ def main():
     with st.sidebar:
         st.markdown("""
                     <div style ="text-align: center;">
-                    <img src="./foto_kitharo.png" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
+                    <img src="foto_kitharo.png" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
                         <h2>Kitharo Nunes Almeida</h2>
                         <p>Programador Python</p>
                     </div>
@@ -236,4 +236,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
