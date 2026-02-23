@@ -154,9 +154,9 @@ def main():
     with st.sidebar:
         st.markdown("""
                     <div style ="text-align: center;">
-                    <img src="foto_kitharo.png" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
+                    <img src="https://media.licdn.com/dms/image/v2/D5603AQGwLKRObWTUnQ/profile-displayphoto-scale_400_400/B56ZyLMzoiGoAg-/0/1771861920675?e=1773273600&v=beta&t=Dmri6F0uamRXK3NNGx7TKyspzL-G6mAhUCnP3JqOhNg" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
                         <h2>Kitharo Nunes Almeida</h2>
-                        <p>Programador Python</p>
+                        <p>Desenvolvedor de Software</p>
                     </div>
                     
         """, unsafe_allow_html=True)
