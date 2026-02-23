@@ -154,7 +154,7 @@ def main():
     with st.sidebar:
         st.markdown("""
                     <div style ="text-align: center;">
-                    <img src="https://scontent.fbsb8-2.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=136b72&_nc_ohc=a1K6_KaoqeEQ7kNvgEW9coO&_nc_oc=AdniezzpFe480_z6-TiUQX7Dx3IxR21w-td0mF6iUHAukV-knC44f2GyMsVc4clQfAm-sNRco4sTRCOwBpAiGWLI&_nc_zt=24&_nc_ht=scontent.fbsb8-2.fna&oh=00_AYEdnHEG8XQXEqMqNC_r7vSxAOLu3-y2xMUWzjfO781CDw&oe=6813DF7A" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
+                    <img src="./foto_kitharo.png" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; margin-bottom: 1rem;">
                         <h2>Kitharo Nunes Almeida</h2>
                         <p>Programador Python</p>
                     </div>
@@ -236,3 +236,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
