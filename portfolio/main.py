@@ -44,7 +44,15 @@ EDUCATION = [
     {
     "course": "Pós Graduação - Inteligência Artificial (Uniceub)",
     "time": "Janeiro de 2024 - Agosto de 2024"
-    }
+    },
+    {
+    "course": "Graduação - Engenharia de Software (IESB)",
+    "time": "Novembro de 2025 - Dezembro de 2028 - Atualmente"
+    },
+    {
+    "course": "Pós Graduação - Desenvolvimento Web (IFMINAS - Passos)",
+    "time": "Outubro de 2025 - Julho de 2026 - Atualmente"
+    },
 ]
 
 CERTIFICATIONS = [
@@ -59,6 +67,11 @@ CERTIFICATIONS = [
 ]
 
 EXPERIENCE = [
+    {
+        "title": "Desenvolvedor Front-End e Tráfego Pago",
+        "company": "Espaço Preciosa - Julho de 2025 – Atualmente",
+        "description": "Desenvolvo e dou manutenção no site da clínica e sou gestor de tráfego no intuito de impulsionar a empresa. Criei e otimizei sites utilizando boas práticas de front-end, criei um agente de Inteligência Artificial para conversar com os futuros clientes, gerencio campanhas de tráfego pago (Google Ads e Meta Ads), focado em conversão e retorno sobre investimento (ROI)"
+    },
     {
         "title": "Técnico de T.I",
         "company": "Lactalis Itambé - Abril 2025 - Atualmente",
@@ -221,4 +234,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
